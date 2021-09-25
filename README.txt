@@ -1,1 +1,1 @@
-To find my wordpress theme : wordpress\wp-content\themes\juan_child
+To find my wordpress theme : wp-content\themes\juan_child
